@@ -24,7 +24,7 @@ start using the package. -->
 
 ## Usage
 
-- Make sure that your pubspec.yaml declares a flutter dictionary and a list of assets that contains at least one placeholder element as shown below. Consider checking the [example](https://github.com/L3odr0id/asset_fill/blob/61479a2aafa1e3040063df828b153dbe4619419c/example/pubspec.yaml#L56).
+- Make sure that your `pubspec.yaml` declares a `flutter` map and the `assets` list that contains at least one placeholder element as shown below. Consider checking the [example](https://github.com/L3odr0id/asset_fill/blob/61479a2aafa1e3040063df828b153dbe4619419c/example/pubspec.yaml#L56).
 ```yaml
 flutter:
   # stuff
