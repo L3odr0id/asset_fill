@@ -5,6 +5,7 @@ import 'package:asset_fill/src/converter.dart';
 import 'package:asset_fill/src/get_paths.dart';
 import 'package:asset_fill/src/writer.dart';
 
+/// Main function that does all work
 Future<void> main() async {
   // get structure
   final dir = Directory('./assets');
