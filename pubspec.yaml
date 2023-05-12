@@ -1,6 +1,6 @@
 name: asset_fill
 description: A package to generate assets in pubspec.yaml. Goes throw all the subdirectories in assets folder.
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/L3odr0id/asset_fill
 
 environment:
@@ -8,7 +8,4 @@ environment:
 
 dependencies:
   yaml_edit: ^2.0.1
-  # yaml_writer: ^1.0.1
-  # yaml: ^3.1.0
-  # yaml_fluency: ^2.1.0
 
