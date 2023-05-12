@@ -13,7 +13,7 @@ Future<void> main() async {
 
   // convert to strings
   final converter = Converter(dirs: dirs);
-  converter.doMaigc();
+  converter.doMagic();
   converter.prepareData();
   final paths = converter.result;
 
