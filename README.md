@@ -13,13 +13,10 @@ and the Flutter guide for
 
 This package automatically adds to pubspec.yaml all the subfolders from asstes.
 
-<!-- ## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
+<!-- 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
+List prerequisites and provide or point to information on how to
 start using the package. -->
 
 ## Usage
@@ -44,13 +41,3 @@ flutter pub run asset_fill
 ## Watch the example
 
 ![Demo gif](https://github.com/L3odr0id/asset_fill/blob/master/gif/functionality.gif)
-
-
-
-
-
-<!-- ## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more. -->
