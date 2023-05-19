@@ -9,9 +9,13 @@ class Writer {
     final yamlDataAsStr = pubspec.readAsStringSync();
 
     final yamlEditor = YamlEditor(yamlDataAsStr);
-    for (var path in paths) {
-      yamlEditor.appendToList(['flutter', 'assets'], path);
+    try {
+      for (var path in paths) {
+        yamlEditor.appendToList(['flutter', 'assets'], path);
+      }
+      pubspec.writeAsStringSync(yamlEditor.toString());
+    } catch (e) {
+      print(e);
     }
-    pubspec.writeAsStringSync(yamlEditor.toString());
   }
 }

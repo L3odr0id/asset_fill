@@ -19,6 +19,4 @@ Future<void> main() async {
 
   // write them to yaml
   Writer.writeDataToYAML(paths);
-
-  // Writer.reWriteFile('assets_to_copy.txt', paths.join());
 }

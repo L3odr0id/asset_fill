@@ -1,3 +1,8 @@
+## 1.1.0
+* Fix missed parent subfolders (#5)
+* Fix missing slash typo (#4)
+* Improved example
+
 ## 1.0.2
 
 * Fix for backslashes in pubspec.yaml output for Windows Platform
