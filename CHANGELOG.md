@@ -1,3 +1,6 @@
+## 2.0.0
+* Assets are updated, not appended. So you can run the script multiple times. Thanks to @WorkNedoPrograMax (#6)
+
 ## 1.1.0
 * Fix missed parent subfolders (#5)
 * Fix missing slash typo (#4)

@@ -20,21 +20,12 @@ List prerequisites and provide or point to information on how to
 start using the package. -->
 
 ## Usage
-
-- Make sure that your `pubspec.yaml` declares a `flutter` map and the `assets` list that contains at least one placeholder element as shown below. Consider checking the [example](https://github.com/L3odr0id/asset_fill/blob/61479a2aafa1e3040063df828b153dbe4619419c/example/pubspec.yaml#L56).
-```yaml
-flutter:
-  # stuff
-  assets:
-    - placeholder
-```
-- Place your files and folders to an assets directory.
+- Place your files and folders to the `assets` directory.
 - Execute following command:
 
 ```bash
 flutter pub run asset_fill
 ```
-- Remove the placeholder
 
 <br></br>
 
