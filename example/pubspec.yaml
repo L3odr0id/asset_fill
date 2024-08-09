@@ -62,24 +62,24 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - a
-    # - assets/html/
-    # - assets/icons/
-    # - assets/images/
-    # - assets/images/instruction/
-    # - assets/local_content/
-    # - assets/local_content/folder1/
-    # - assets/local_content/folder10/
-    # - assets/local_content/folder11/
-    # - assets/local_content/folder11/folder12/
-    # - assets/local_content/folder11/folder12/folder14/
-    # - assets/local_content/folder11/folder13/
-    # - assets/local_content/folder2/
-    # - assets/local_content/folder3/
-    # - assets/local_content/folder3/folder4/
-    # - assets/local_content/folder3/folder4/folder5/
-    # - assets/local_content/folder3/folder6/
-    # - assets/local_content/folder7/
-    # - assets/local_content/folder8/
-    # - assets/local_content/folder9/
-    # - assets/translations/
+    - assets/
+    - assets/html/
+    - assets/icons/
+    - assets/images/
+    - assets/images/instruction/
+    - assets/local_content/
+    - assets/local_content/folder1/
+    - assets/local_content/folder10/
+    - assets/local_content/folder11/
+    - assets/local_content/folder11/folder12/
+    - assets/local_content/folder11/folder12/folder14/
+    - assets/local_content/folder11/folder13/
+    - assets/local_content/folder2/
+    - assets/local_content/folder3/
+    - assets/local_content/folder3/folder4/
+    - assets/local_content/folder3/folder4/folder5/
+    - assets/local_content/folder3/folder6/
+    - assets/local_content/folder7/
+    - assets/local_content/folder8/
+    - assets/local_content/folder9/
+    - assets/translations/
